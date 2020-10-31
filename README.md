@@ -23,3 +23,9 @@ The main sources of inspiration for this document are the following Internet sou
 </ol>
 
 This document combines BERT implementation and concepts from both sources into a single document. I hope this document will be useful for everyone new to the BERT world!
+
+# Source Code
+Source code is available here: https://github.com/zen030/tech_review/blob/master/tech_review_colab.ipynb
+
+# Dataset
+Dataset is available here: https://github.com/zen030/tech_review/blob/master/tech_review_colab.ipynb
