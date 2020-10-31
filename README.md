@@ -20,6 +20,6 @@ The main sources of inspiration for this document are the following Internet sou
 <ol>
 <li>Cousera course: </li>
 <li>An article about BERT fine-tuning: </li>
-<ol>
+</ol>
 
 This document combines BERT implementation and concepts from both sources into a single document. I hope this document will be useful for everyone new to the BERT world!
