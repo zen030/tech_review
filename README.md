@@ -1,6 +1,6 @@
 # Sentiment Analysis using BERT
 
-This document (techreview.pdf) illustrates the use of the BERT pre-trained model to classify the sentiment of Twitter tweets.
+This document (https://github.com/zen030/tech_review/blob/master/techreview.pdf) illustrates the use of the BERT pre-trained model to classify the sentiment of Twitter tweets.
 The target audience of the document:
 <ol>
  <li>The audience has no experience in BERT pre-training Model.</li>
