@@ -28,4 +28,4 @@ This document combines BERT implementation and concepts from both sources into a
 Source code is available here: https://github.com/zen030/tech_review/blob/master/tech_review_colab.ipynb
 
 # Dataset
-Dataset is available here: https://github.com/zen030/tech_review/blob/master/tech_review_colab.ipynb
+Dataset is available here: https://github.com/zen030/tech_review/blob/master/smile-annotations-final.csv
