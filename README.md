@@ -18,8 +18,8 @@ The target audience of the document:
 
 The main sources of inspiration for this document are the following Internet sources:
 <ol>
-<li>Cousera course: </li>
-<li>An article about BERT fine-tuning: </li>
+<li>Cousera course: https://www.coursera.org/learn/sentiment-analysis-bert/home/welcome</li>
+<li>An article about BERT fine-tuning: https://mccormickml.com/2019/07/22/BERT-fine-tuning/</li>
 </ol>
 
 This document combines BERT implementation and concepts from both sources into a single document. I hope this document will be useful for everyone new to the BERT world!
